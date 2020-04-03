@@ -4,6 +4,7 @@
   "description": "This is a Node.js Program that is meant to scrape instagram data and see who does not follow you back",
   "main": "index.js",
   "scripts": {
+    "start": "npm install && node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Rudra Desai",
