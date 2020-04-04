@@ -5,6 +5,7 @@
   <ol>
     <li>Download or Clone this repository.</li>
     <li>Run <code>npm start</code> to install all the dependencies and automatically run the program.</li>
+    <li>Enter OTP manually, if required</li>
   </ol>
 </div>
 
